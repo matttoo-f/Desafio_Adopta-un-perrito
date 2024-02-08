@@ -1,0 +1,29 @@
+body{
+  margin: 0%;
+  padding: 0%;
+}
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+  font-weight: bolder;
+}
+Header {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(206, 118, 60);
+}
+Header img {
+  width: 500px;
+}
+
+Footer {
+  text-align: center;
+  background-color: rgb(206, 118, 60);
+  height: 100%;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
